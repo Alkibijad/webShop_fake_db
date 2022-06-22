@@ -69,14 +69,14 @@
     "price":"$140",
     "source":"men-shoes"
     },
-    1{
+    {
     "img":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/07cfe277-1424-488a-a559-2c39ccefae22/air-vapormax-2021-flyknit-mens-shoes-NpTfFz.png",
     "url":"https://www.nike.com/t/air-vapormax-2021-flyknit-mens-shoes-NpTfFz/DM0025-100",
     "title":"Nike Air VaporMax 2021 Flyknit",
     "price":"$210",
     "source":"men-shoes"
     },
-    1{
+    {
     "img":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/85de7048-456c-4158-bb2b-ee84bcf921a5/air-vapormax-plus-mens-shoes-nC0dzF.png",
     "url":"https://www.nike.com/t/air-vapormax-plus-mens-shoes-nC0dzF/DQ7645-100",
     "title":"Nike Air Vapormax Plus",
@@ -486,7 +486,7 @@
     "img":"https://static.nike.com/a/images/c_limit,w_318,f_auto/t_product_v1/1430cc72-02a2-4fb0-8ce8-9c6e52dcf8df/flow-big-kids-road-running-shoes-MN1zQ3.png",
     "url":"https://www.nike.com/t/flow-big-kids-road-running-shoes-MN1zQ3/DD3724-001",
     "title":"Nike Flow",
-    "price":"$80",
+    "price":"$60",
     "source":"kids-shoes"
     },
     {
